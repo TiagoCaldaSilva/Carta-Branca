@@ -1,0 +1,6 @@
+screen shake quando matas inimigo
+Som quando estás a lutar
+quando cai deixar um pózinho
+cair em camara lenta
+estar sempre a mexer
+camara a mexer cnforme mudamos de place

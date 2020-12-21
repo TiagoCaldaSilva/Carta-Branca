@@ -1,5 +1,13 @@
 sceneSetups:
 - path: Assets/project.unity
   isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Dungeon.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Final-Fight.unity
+  isLoaded: 1
   isActive: 1
   isSubScene: 0
